@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://myreadme.vercel.app/api/embed/Applejuicelolmc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Applejuicelolmc&repo=shrimp-bot)](https://github.com/Applejuicelolmc/shrimp-bot)
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <img src="https://profile-counter.glitch.me/{Applejuicelolmc}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <!--
