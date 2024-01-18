@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://myreadme.vercel.app/api/embed/Applejuicelolmc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{Applejuicelolmc}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <!--
 **Applejuicelolmc/Applejuicelolmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
