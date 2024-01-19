@@ -1,10 +1,9 @@
-### Hi there 👋
+## Hello there 👋
+Learning programming during my free time :)
 
+### Latest project:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Applejuicelolmc&repo=shrimp-bot)](https://github.com/Applejuicelolmc/shrimp-bot)
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
-<img src="https://profile-counter.glitch.me/{Applejuicelolmc}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <!--
 **Applejuicelolmc/Applejuicelolmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
